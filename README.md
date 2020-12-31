@@ -1,0 +1,1 @@
+This my take on the classic arcade game called Whack-a-mole. The rules are simple just Whack(click) the mole when it appears, the number of moles you whack until the timer runs out will be your score. Have fun :)
